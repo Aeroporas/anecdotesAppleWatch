@@ -1,0 +1,2 @@
+# anecdotesAppleWatch
+Анекдоты для AppleWatch
